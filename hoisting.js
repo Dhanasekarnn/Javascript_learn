@@ -105,17 +105,18 @@
 // console.log(generator.next().value);
 // console.log(generator.next().value);
 
-function* url(){
-    yield "https:/"
-    yield "www.ds.com"
-    yield "homepage"
-}
+// function* url(){
+//     yield "https:/"
+//     yield "www.ds.com"
+//     yield "homepage"
+// }
 
-let origin1 = url()
+// let origin1 = url()
 
-console.log(origin1.next().value);
-console.log(origin1.next().value);
-console.log(origin1.next().value);
-console.log(origin1.next().value);
+// console.log(origin1.next().value);
+// console.log(origin1.next().value);
+// console.log(origin1.next().value);
+// console.log(origin1.next().value);
+
 
 
