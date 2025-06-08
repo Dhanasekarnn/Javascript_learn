@@ -83,5 +83,3 @@
 // let filledArray = new Array(5).fill(1);
 // console.log(filledArray);
 
-
-

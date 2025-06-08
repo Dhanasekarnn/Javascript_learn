@@ -47,6 +47,3 @@
 // let colors = ["red", "blue", "green"];
 // colors.splice(1,2,"black","brown") // remove 2 at index 1, add 'yellow'
 // console.log(colors);
-
-
-
