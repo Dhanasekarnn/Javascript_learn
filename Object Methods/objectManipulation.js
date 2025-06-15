@@ -66,3 +66,4 @@
 // //Object.isFrozen
 
 // console.log(Object.isFrozen(newObjfreeze));
+
