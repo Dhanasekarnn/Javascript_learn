@@ -41,10 +41,61 @@
 // console.log(str6.replaceAll("Js", "Javascript"));
 
 //Slice
-let str7 = "Single Thread"
-console.log(str7.slice(3));
-console.log(str7.slice(3,9));
-console.log(str7.slice(-3,-1)); // -1 -1 => -2
+// let str7 = "Single Thread"
+// console.log(str7.slice(3));
+// console.log(str7.slice(3,9));
+// console.log(str7.slice(-3,-1)); // -1 -1 => -2
+
+//substring & substr
+// let str8 = "Single Thread"
+// console.log(str8.substring(3));
+// console.log(str8.substring(3,9));
+// console.log(str8.substring(-3));
+// console.log(str8.substring(8,0));
+
+//Split
+
+// let words = "My name is Iron-Man"
+// console.log(words.split(""));
+// console.log(words.split(" "));
+// console.log(words.split("-"));
+// console.log(words.split(" ", 3));
+// console.log(words.split("-", 1));
+
+//startswith //index
+
+// let words = "My Name is Iron-Man"
+// console.log(words.startsWith("M"));
+// console.log(words.startsWith("N", 3));
+// console.log(words.startsWith("N", 4));
+// console.log(words.startsWith("Name", 3));
+
+//endswith //position
+// let words = "My Name is Iron-Man"
+// console.log(words.endsWith("N", 4));
+// console.log(words.endsWith("Iron", 15));
+
+// toLowerCase
+// let words = "My Name is Iron-Man"
+// console.log( words.toLowerCase() );
+
+//toUpperCase
+// let words = "My Name is Iron-Man"
+// console.log(words.toUpperCase());
+
+//trim
+// let trim = "    My Name is Iron-Man  "
+// console.log(trim.trim());
+
+//trimStart / trimLeft
+// let trim = "    My Name is Iron-Man  "
+// console.log(trim.trimStart());
+
+//trimEnd / trimRight
+// let trim = "    My Name is Iron-Man  "
+// console.log(trim.trimEnd());
+
+
 
 
 
